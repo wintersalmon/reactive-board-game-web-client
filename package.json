@@ -1,5 +1,5 @@
 {
-  "name": "board-game-client",
+  "name": "reactive-board-game-web-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
