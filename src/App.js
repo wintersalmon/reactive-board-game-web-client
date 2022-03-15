@@ -18,7 +18,6 @@ class Board extends React.Component {
         this.Square_x_len = 5
         this.Square_y_len = 5
         this.state = {
-            // squares: Array(this.Square_x_len).fill(Array(this.Square_y_len).fill(null)),
             squares: Array.from(Array(this.Square_x_len), () => Array(this.Square_y_len).fill(null)),
             xIsNext: true,
         };
